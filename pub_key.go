@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"crypto/sha256"
 
-	"bls"
+	"github.com/SickleZhang/bls"
 	secp256k1 "github.com/btcsuite/btcd/btcec"
 	ethcrypto "github.com/intfoundation/intchain/crypto"
 	"github.com/tendermint/ed25519"
