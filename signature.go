@@ -9,7 +9,7 @@ import (
 	"github.com/tendermint/go-wire"
 	"encoding/hex"
 	"encoding/json"
-	"bls"
+	"github.com/SickleZhang/bls"
 )
 
 // Signature is a part of Txs and consensus Votes.
